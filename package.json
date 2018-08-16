@@ -1,0 +1,18 @@
+{
+  "name": "jira-ticket-creation",
+  "version": "1.0.0",
+  "description": "Using the Jira Rest API to create tickets",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "^0.0.0",
+    "node-schedule": "^1.3.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xander Thompson",
+  "license": "ISC"
+}
